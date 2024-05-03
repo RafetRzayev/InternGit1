@@ -4,9 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World! First commit");
-            Console.WriteLine("SALAM!");
-            Console.WriteLine("SALAM!");
+            Console.WriteLine("Dev");
         }
     }
 }
